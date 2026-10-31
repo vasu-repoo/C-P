@@ -21,7 +21,7 @@ int main() {
         actual_sum += x;
     }
 
-    // The missing number is the difference
+    // The missing number is the differenceṇ
     cout << expected_sum - actual_sum << "\n";
 
     return 0;
